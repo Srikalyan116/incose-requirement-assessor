@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+weaviate-client
+mlflow
+streamlit
+requests
